@@ -475,3 +475,6 @@ MigrationBackup/
 .ionide/
 
 # End of https://www.toptal.com/developers/gitignore/api/visualstudio,unrealengine,xcode
+
+# My Custom
+Content/Temp
